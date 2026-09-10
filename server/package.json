@@ -1,0 +1,19 @@
+{
+  "name": "halluguard-server",
+  "version": "1.0.0",
+  "description": "Backend API for HalluGuard AI - Hallucination detection & verification pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["hallucination-detection", "llm", "express", "ai-safety"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}

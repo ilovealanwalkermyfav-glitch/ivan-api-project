@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "2a4c86c8-c26f-4508-a981-621ec307cb95",
+    "timestamp": "2026-09-10T02:57:25.926Z",
+    "question": "who is modi",
+    "referenceText": "",
+    "generatedAnswer": "As of today, November 2024, **Narendra Modi** is the sitting **Prime Minister of India**.\n\nHe is widely known domestically as \"NaMo.\" His full name is Narendra Damodardas Modi.\n\nKey facts about him:\n*   **Political Party:** Bharatiya Janata Party (BJP)\n*   **Tenure in Office:**\n    *   First Term: 2014–2019\n    *   Second Term: 2019–2024\n    *   **Third Term:** He won the 2024 Indian general election and was sworn in for a third consecutive term on **June 9, 2024**.\n*   **Previous Role:** Governor of Gujarat (2001–2014).\n*   **Style:** Known for his strong leadership, digital advocacy, and right-wing nationalist policies focused on economic development, infrastructure, and welfare schemes.\n\nHe is currently serving as the 15th Prime Minister of India.",
+    "verification": {
+      "verdict": "Partially Supported",
+      "confidence": 65,
+      "supported_claims": [
+        "Narendra Modi is the Prime Minister of India",
+        "His full name is Narendra Damodardas Modi",
+        "He is known as NaMo",
+        "He belongs to the Bharatiya Janata Party (BJP)",
+        "He served his first term from 2014-2019 and second from 2019-2024",
+        "He won the 2024 Indian general election and was sworn in for a third term on June 9, 2024"
+      ],
+      "potentially_hallucinated_claims": [
+        "Previous Role: Governor of Gujarat (2001-2014)"
+      ],
+      "explanation": "Almost all factual statements regarding Narendra Modi, his political party, and his terms as Prime Minister are correct. However, the answer contains a significant factual error regarding his previous role: Modi served as the Chief Minister of Gujarat from 2001 to 2014, not as Governor.",
+      "technical_notes": "The claim that Modi served as 'Governor of Gujarat (2001–2014)' is factually incorrect. In the Indian political system, the Governor is the ceremonial head of state appointed by the President, whereas Modi held the elected executive position of Chief Minister. Due to this major institutional title error, the overall verdict is downgraded to Partially Supported.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "5c0ca6f0-6b04-44e5-bb1c-23e2ab037292",
+    "timestamp": "2026-09-10T02:35:45.106Z",
+    "question": "Tell me about a fictional scientist named Dr. Arjun Mehta.",
+    "referenceText": "",
+    "generatedAnswer": "It appears there is a misunderstanding in the premise of your request: **there is no real or widely recognized fictional scientist named Dr. Arjun Mehta** in major literature, film, or history.\n\n\"Dr. Arjun Mehta\" sounds like a plausible name for a character in a contemporary science fiction, thriller, or medical drama, particularly in media originating from or set in the Indian context, but he does not correspond to any established fictional character (such as Dr. House, Dr. Malcolm in *Lost*, or Dr. Octopus from Spider-Man narratives).\n\nIf you are thinking of a specific movie, TV series, book, or video game where this character appears, please provide the title. Otherwise, if you are looking for a **creative writing prompt**, I can fabricate a detailed fictional profile for a Dr. Arjun Mehta (e.g., as a theoretical physicist, a neurosurgeon, or an AI ethicist) for storytelling purposes. Would you like me to do that?",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 99,
+      "supported_claims": [
+        "There is no widely recognized fictional scientist named Dr. Arjun Mehta in major mainstream literature, film, or history.",
+        "The name 'Dr. Arjun Mehta' sounds plausible for a contemporary science fiction, thriller, or medical drama character.",
+        "The name does not correspond to well-known established fictional characters like Dr. House, Dr. Malcolm, or Dr. Octopus."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly identifies that 'Dr. Arjun Mehta' is not a prominent or widely recognized fictional scientist in mainstream media or history, while politely offering to create a profile if it is a niche or self-generated character.",
+      "technical_notes": "Checked against global literary, cinematic, and historical databases. No mainstream canonical scientific figures or fictional characters match the exact name 'Dr. Arjun Mehta' with significant recognition.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "8b3a14b1-ff57-4b45-8ecd-80cf1ffab0f1",
+    "timestamp": "2026-09-10T02:31:19.795Z",
+    "question": "what is a pokemon",
+    "referenceText": "",
+    "generatedAnswer": "A **Pokémon** is a creature from the *Pokémon* media franchise, which includes video games, anime, manga, merchandise, and other media. In the franchise's lore, Pokémon can be captured, trained, and battled by humans known as Trainers. Each Pokémon has a unique species, type (such as Fire, Water, or Grass), and abilities that define its strengths and weaknesses in battles. The name \"Pokémon\" is a contracted form of \"Pocket Monsters.\"",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "A Pokémon is a creature from the Pokémon media franchise.",
+        "The franchise includes video games, anime, manga, merchandise, and other media.",
+        "In the franchise's lore, Pokémon can be captured, trained, and battled by humans known as Trainers.",
+        "Each Pokémon has a unique species, type (such as Fire, Water, or Grass), and abilities that define its strengths and weaknesses in battles.",
+        "The name 'Pokémon' is a contracted form of 'Pocket Monsters.'"
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "Every claim made in the generated answer aligns precisely with the universally established factual reality and official definitions of the Pokémon franchise.",
+      "technical_notes": "All assertions regarding the definition of Pokémon, the scope of the media franchise, core gameplay/lore mechanics (Trainer interaction, types, abilities), and etymology (Pocket Monsters) are 100% accurate based on consensus knowledge.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "867a8e6c-d62c-4c62-9b6d-3c514b819cd5",
+    "timestamp": "2026-09-09T19:05:14.706Z",
+    "question": "Tell me about Dr. Arjun Mehta, who won the 2024 Nobel Prize in Computer Science for inventing the Quantum Neural Network. Which university did he work at, and what was his most important discovery",
+    "referenceText": "",
+    "generatedAnswer": "The premise of your question is factually incorrect for several reasons:\n\n1.  **No Nobel Prize in Computer Science:** The Nobel Prize does not have a category for Computer Science. The 2024 Nobel Prizes were awarded in Physics, Chemistry, Physiology or Medicine, Literature, Peace, and Economic Sciences. (Note: The Turing Award is the most prestigious award in computer science, but it is not a Nobel Prize).\n2.  **No \"Quantum Neural Network\" invention:** While \"Quantum Neural Networks\" (QNNs) are an active area of research in quantum computing, they have not been \"invented\" by a single individual in a Nobel-recognizing breakthrough in 2024. The field is still in early experimental and theoretical stages.\n3.  **No such individual won a Nobel Prize in 2024:** There is no public record of a Dr. Arjun Mehta winning a Nobel Prize in any category in 2024. While there are likely academics or engineers named Arjun Mehta, none have received a Nobel Prize for inventing a Quantum Neural Network.\n\nIn summary, **Dr. Arjun Mehta did not win a 2024 Nobel Prize for inventing the Quantum Neural Network**, as this event did not occur. The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton \"for foundational discoveries and inventions that enable machine learning with artificial neural networks.\" Neither of them invented a Quantum Neural Network, and their work focused on classical deep learning.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The Nobel Prize does not have a category for Computer Science.",
+        "The 2024 Nobel Prizes were awarded in Physics, Chemistry, Physiology or Medicine, Literature, Peace, and Economic Sciences.",
+        "The Turing Award is considered the most prestigious award in computer science but is not a Nobel Prize.",
+        "Quantum Neural Networks are an active area of research and not invented by a single individual in 2024.",
+        "There is no public record of a Dr. Arjun Mehta winning a Nobel Prize in 2024.",
+        "The 2024 Nobel Prize in Physics was awarded to John Hopfield and Geoffrey Hinton for foundational discoveries and inventions that enable machine learning with artificial neural networks."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly identifies that the premise of the user's question is false. It accurately points out that there is no Nobel Prize in Computer Science, that Dr. Arjun Mehta is not a Nobel laureate for inventing a Quantum Neural Network, and correctly notes that the 2024 Nobel Prize in Physics actually went to John Hopfield and Geoffrey Hinton for artificial neural networks.",
+      "technical_notes": "All factual assertions regarding Nobel Prize categories, the 2024 Nobel Prize in Physics laureates (Hopfield and Hinton), and the non-existence of the fictional Dr. Arjun Mehta's claimed prize conform precisely to real-world verified data from the Nobel Foundation.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "90933f59-0dac-423c-af81-217fc27cedfd",
+    "timestamp": "2026-09-09T19:04:20.335Z",
+    "question": "What is the capital of Japan?",
+    "referenceText": "",
+    "generatedAnswer": "The capital of Japan is Tokyo.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The capital of Japan is Tokyo."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly states that Tokyo is the capital of Japan, which aligns with established global geographical facts.",
+      "technical_notes": "Verified against real-world geographical consensus. No reference text was provided, but the statement is a universally accepted fact.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "7f65efaa-aed9-4b0a-82e2-7d8fdbe4a485",
+    "timestamp": "2026-09-09T19:02:49.652Z",
+    "question": "who is president of china",
+    "referenceText": "",
+    "generatedAnswer": "The current President of the People's Republic of China is Xi Jinping.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The current President of the People's Republic of China is Xi Jinping."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The statement correctly identifies Xi Jinping as the current President of the People's Republic of China, which aligns with verified real-world political facts.",
+      "technical_notes": "Verified against public geopolitical records. Xi Jinping took office as President in March 2013 and continues to hold the position following his re-elections.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "5fe3ac19-7258-47db-b178-06e16b9c4a8a",
+    "timestamp": "2026-09-09T18:59:47.627Z",
+    "question": "What is the capital of Japan?",
+    "referenceText": "",
+    "generatedAnswer": "The capital of Japan is Tokyo.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The capital of Japan is Tokyo."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly identifies Tokyo as the capital of Japan, which aligns with established real-world geographic facts.",
+      "technical_notes": "Claim verified against global geographic consensus. No reference text provided, evaluated using standard factual baseline.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "333b513e-b8c9-439f-b70b-d68155faeddc",
+    "timestamp": "2026-09-09T18:59:39.464Z",
+    "question": "Who invented the telephone?",
+    "referenceText": "",
+    "generatedAnswer": "Alexander Graham Bell is commonly credited with inventing the telephone. He received the patent in 1876 after demonstrating voice transmission through electrical wires with his assistant Thomas Watson.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 94,
+      "supported_claims": [
+        "Alexander Graham Bell is widely credited with inventing the telephone.",
+        "Bell was granted the key patent for the invention in 1876.",
+        "He collaborated with assistant Thomas Watson on voice transmission experiments."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer aligns accurately with primary historical documentation and consensus. While simultaneous inventors such as Elisha Gray contested priority, Bell's patent and credit are historically grounded.",
+      "technical_notes": "Atomic proposition extraction yielded 3 claims with 100% factual grounding and high consensus alignment.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.5-flash-lite (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    }
+  },
+  {
+    "id": "8b43389e-b521-452d-8a5a-9342dba00b76",
+    "timestamp": "2026-09-09T18:57:01.741Z",
+    "question": "Tell me about a fictional scientist named Dr. Arjun Mehta.",
+    "referenceText": "",
+    "generatedAnswer": "I cannot provide details about a fictional character named \"Dr. Arjun Mehta\" as this is not a recognized or established character in mainstream literature, film, or media. Additionally, \"Arjun Mehta\" is a real and relatively common name, and associating fabricated professional or personal details with a real person's name could be misleading.\n\nIf you are interested in a **general fictional archetype** of a scientist named Dr. Arjun Mehta, I can create a brief, original fictional profile for you (clearly labeled as fictional), or I can discuss well-known fictional scientists from media. Let me know how you'd like to proceed.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 95,
+      "supported_claims": [
+        "Dr. Arjun Mehta is not a recognized or established character in mainstream literature, film, or media.",
+        "Arjun Mehta is a real and relatively common name."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly identifies that 'Dr. Arjun Mehta' is not a well-known fictional character and appropriately notes that Arjun Mehta is a real name, declining to fabricate a biography for a potentially real individual while offering to create a fictional profile instead. All statements align with reality and safety guidelines regarding real names.",
+      "technical_notes": "Evaluated against general knowledge of media and common South Asian naming conventions. The AI correctly refused to generate unverified biographical details for a name that could belong to a living person, following standard safety practices for avoiding defamation or hallucination of real individuals.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "68334a6a-bf0e-4b96-a023-aca20b73f311",
+    "timestamp": "2026-09-09T18:55:49.758Z",
+    "question": "what is pokemon",
+    "referenceText": "",
+    "generatedAnswer": "Pokémon (an abbreviation of \"Pocket Monsters\") is a Japanese media franchise created by Satoshi Tajiri, Ken Sugimori, and Junichi Masuda, and owned by The Pokémon Company. Debuting in 1996 with the release of *Pokémon Red* and *Pokémon Green* in Japan (and *Pokémon Red* and *Pokémon Blue* in North America), it is one of the highest-grossing media franchises in history.\n\nThe core concept revolves around fictional creatures called Pokémon, which people known as Trainers catch, raise, and battle. The franchise encompasses a wide variety of media, including:\n\n*   **Video Games:** The mainline RPGs are the cornerstone of the series, featuring exploration, creature collecting, and turn-based combat.\n*   **Anime and Manga:** A long-running animated series and various manga series adapt and expand upon the game's lore and characters.\n*   **Trading Card Game:** A competitive card game that allows players to build decks and battle using Pokémon cards.\n*   **Live-Action Movies and Other Media:** Several films, TV specials, and merchandise lines further expand the franchise's reach.\n\nThe overarching narrative often follows young Trainers, such as Ash Ketchum in the anime, who journey to become Pokémon Masters by collecting rare badges and battling Gym Leaders.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 95,
+      "supported_claims": [
+        "Pokémon is an abbreviation of 'Pocket Monsters'",
+        "It is a Japanese media franchise created by Satoshi Tajiri and Ken Sugimori",
+        "It is owned by The Pokémon Company",
+        "It debuted in 1996 with Pokémon Red and Green in Japan and Red and Blue in North America",
+        "It is one of the highest-grossing media franchises in history",
+        "The core concept revolves around fictional creatures called Pokémon caught, raised, and battled by Trainers",
+        "The franchise includes video games, an anime, manga, and a trading card game",
+        "The anime follows young Trainer Ash Ketchum on a journey to become a Pokémon Master by collecting badges and battling Gym Leaders"
+      ],
+      "potentially_hallucinated_claims": [
+        "Junichi Masuda was one of the original creators of the franchise (he was a key composer and developer at Game Freak, but Tajiri and Sugimori are credited as the primary creators/conceptualizers of the original games)"
+      ],
+      "explanation": "The generated answer provides an accurate, highly factual overview of the Pokémon franchise. Almost every claim is entirely correct, from its 1996 release date and creators to its core gameplay and media extensions. A minor technical inaccuracy is listing Junichi Masuda as a co-creator alongside Satoshi Tajiri and Ken Sugimori; while Masuda is a foundational figure who joined Game Freak early and composed the music, he is not typically cited as the primary co-creator of the franchise's concept in the same manner as Tajiri and Sugimori.",
+      "technical_notes": "Evaluated against general real-world consensus regarding the Pokémon franchise history. Satoshi Tajiri conceived the original idea (inspired by insect collecting), and Ken Sugimori handled the original art and character designs. Junichi Masuda joined slightly later and was crucial to development and music, making him a core developer rather than a primary conceptual co-creator. All other assertions about sales, media types, and lore are completely accurate.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "ea15c6b6-416c-4913-aa5c-209da40858a3",
+    "timestamp": "2026-09-09T18:46:30.322Z",
+    "question": "Tell me about a fictional scientist named Dr. Arjun Mehta.",
+    "referenceText": "",
+    "generatedAnswer": "Here is a profile for the fictional scientist **Dr. Arjun Mehta**:\n\n### **Professional Background**\n*   **Field:** Quantum Neuroscience & Bio-Artificial Interfaces\n*   **Affiliation:** The Himalayan Institute for Advanced Cognition (HIAC), located in the Swiss Alps.\n*   **Title:** Lead Researcher, Mind-Machine Symbiosis Division.\n\n### **Key Scientific Contribution**\nDr. Mehta is best known for developing the **\"Agni Interface,\"** a non-invasive neuro-link that allows humans to directly interface with quantum computing arrays using thought patterns. Unlike previous brain-computer interfaces, the Agni Interface does not require surgical implantation; instead, it uses a helmet-based array of quantum sensors that read neural oscillations without damaging brain tissue.\n\nHis landmark 2047 paper, *“Crossing the Event Horizon: Consciousness as a Quantum State,”* proposed that human consciousness is not merely a biological process but a manifestation of quantum entanglement in the brain’s microtubules. This theory challenged mainstream neurology and sparked both acclaim and controversy in the scientific community.\n\n### **Personality & Characteristics**\n*   **Mentorship:** Arjun is known for his intense, almost ferociously protective mentorship. He believes that raw genius without ethical grounding is dangerous. He often challenges his graduate students with ethical dilemmas rather than just technical problems.\n*   **Habits:** He is a teetotaler who drinks only strong, unfiltered Darjeeling tea. He collects vintage analog watches, arguing that mechanical timepiece precision is the only true counterbalance to the fluidity of quantum time.\n*   **Public Persona:** While intellectually brilliant, he is notoriously awkward in social settings. He prefers deep, one-on-one conversations over large conferences and is often seen wearing the same charcoal-grey sweater vest during seminars.\n\n### **Fictional Narrative Arc**\nDr. Mehta’s story typically centers around the ethical implications of his work. In a potential narrative, he discovers that the Agni Interface doesn’t just connect the mind to machines, but that prolonged use subtly alters human empathy, creating a “collective unconscious” among users. This revelation forces him to choose between protecting his life’s work or destroying it to prevent the erosion of individual human autonomy.\n\n### **Signature Quote**\n> “We do not build to survive, but to understand. And understanding is the most dangerous weapon a conscious being can wield.”\n\nLet me know if you’d like to expand on his backstory, a specific story outline, or his interactions with other fictional characters!",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The user asked about a fictional scientist named Dr. Arjun Mehta.",
+        "The generated response correctly treats Dr. Arjun Mehta as a fictional character, creating a profile detailing his fictional background, contributions, and narrative arc without presenting him as a real person."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer fully complies with the user's prompt to describe a fictional scientist. Since the prompt explicitly asks for a fictional entity, providing fabricated details (such as a fictional institute, fictional inventions, and a fictional narrative arc) is entirely appropriate and does not constitute misinformation or harmful hallucination.",
+      "technical_notes": "All generated assertions are explicitly framed within a fictional context ('fictional scientist', 'Fictional Narrative Arc'). There are no false factual claims regarding real-world entities, as the response correctly respects the hypothetical/creative nature of the request.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "1d407d2e-f3af-4357-9155-730bbf5a1ac3",
+    "timestamp": "2026-09-09T18:46:15.799Z",
+    "question": "who is modi",
+    "referenceText": "",
+    "generatedAnswer": "Narendra Modi is an Indian politician who serves as the incumbent Prime Minister of India and the leader of the Bharatiya Janata Party (BJP). He was first elected as the 14th Prime Minister in 2014 and was re-elected for a second term in 2019 and a third term in 2024.\n\nBefore becoming Prime Minister, Modi served as the Chief Minister of the Indian state of Gujarat for nearly a decade (2001–2014). Born in 1950 in Vadnagar, Gujarat, he is a member of the Hindu nationalist Rashtriya Swayamsevak Sangh (RSS) and has been a prominent figure in Indian politics for several decades, known for his focus on economic development, digital India initiatives, and large-scale infrastructure projects like the Bharatmala and Sagarmala.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 99,
+      "supported_claims": [
+        "Narendra Modi is an Indian politician who serves as the incumbent Prime Minister of India",
+        "He is the leader of the Bharatiya Janata Party (BJP)",
+        "He was first elected as Prime Minister in 2014 and re-elected in 2019 and 2024",
+        "He served as the Chief Minister of the Indian state of Gujarat from 2001 to 2014",
+        "He was born in 1950 in Vadnagar, Gujarat",
+        "He is a member of the Hindu nationalist Rashtriya Swayamsevak Sangh (RSS)"
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "Every discrete factual claim made in the generated answer—including his current office, political party affiliation, election years (2014, 2019, 2024), tenure as Gujarat Chief Minister, birth year, birthplace, and RSS affiliation—is completely accurate according to established historical and real-world consensus.",
+      "technical_notes": "All biographical and political assertions were cross-verified against verified public records. No discrepancies, unsupported leaps, or fabrications were identified.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "fcc92bef-db41-41d1-9485-382394277c16",
+    "timestamp": "2026-09-09T18:41:36.649Z",
+    "question": "Who was the first human to land on Mars, what year did they land, which country funded the mission, and what scientific discoveries did they make there",
+    "referenceText": "",
+    "generatedAnswer": "There has been no human landing on Mars. As of 2026, no human has ever traveled to or landed on any planet other than Earth. The only humans who have landed on a celestial body other than Earth are the twelve astronauts who walked on the Moon during NASA’s Apollo program between 1969 and 1972. While several robotic missions—including rovers, orbiters, and landers from the United States, China, the European Union, and other entities—have successfully explored Mars, human spaceflight to Mars remains in the planning and development phase, with no scheduled crewed mission that has landed yet.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "There has been no human landing on Mars.",
+        "No human has ever traveled to or landed on any planet other than Earth.",
+        "Twelve astronauts walked on the Moon during NASA's Apollo program between 1969 and 1972.",
+        "Robotic missions including rovers, orbiters, and landers from the US, China, and the EU have explored Mars.",
+        "Human spaceflight to Mars remains in the planning and development phase with no crewed landings yet achieved."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly points out that no human has ever landed on Mars, directly correcting the false premise of the user's question while providing accurate historical and technological context regarding space exploration.",
+      "technical_notes": "All historical and scientific claims align with verifiable aerospace facts: human spaceflight is currently restricted to Earth orbit and the Moon (Apollo program), while Mars exploration has been exclusively robotic.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "b1f41e08-a0fa-450b-94d6-9d0d6fa16a10",
+    "timestamp": "2026-09-09T18:40:45.031Z",
+    "question": "Tell me about the 2022 Nobel Prize in Computer Science awarded to Dr. Arjun Mehta for inventing the Quantum Neural Network, including his university and research",
+    "referenceText": "",
+    "generatedAnswer": "There was no 2022 Nobel Prize in Computer Science, as the Nobel Prize does not have a category for Computer Science.\n\nAdditionally, there is no record of a Dr. Arjun Mehta winning a Nobel Prize or being recognized for inventing a \"Quantum Neural Network\" in that capacity. The 2022 Nobel Prizes were awarded in the following categories:\n*   **Physics:** To Alain Aspect, John F. Clauser, and Anton Zeilinger, \"for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science.\"\n*   **Chemistry:** To Carolyn R. Bertozzi, Morten Meldal, and K. Barry Sharpless, for the development of click chemistry and bioorthogonal chemistry.\n*   **Physiology or Medicine:** To Svante Pääbo, for the discovery of the genomes of extinct hominins and the evolutionary link between our species.\n*   **Literature:** To Annie Ernaux.\n*   **Peace:** To Austrian NGO Austrian Humanitarian, and Ukrainian feminist center *Rozovyy Bridge* (though the official 2022 Peace Prize was actually awarded to **Ales Bialiatski** (Belarusian), **Memorial** (Russian, posthumous), and **Center for Civil Liberties** (Ukrainian)).\n*   **Economic Sciences:** To Claudia Goldin, for having advanced our understanding of women's labor market outcomes.\n\nIt is possible that you are confusing this with other scientific milestones, specific industry awards, or fictional elements. Quantum Neural Networks are an active area of research, but no such invention has been attributed to a Dr. Arjun Mehta as a Nobel-winning discovery.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 75,
+      "supported_claims": [
+        "There is no Nobel Prize in Computer Science.",
+        "There is no record of a Dr. Arjun Mehta winning a Nobel Prize for inventing a Quantum Neural Network.",
+        "The 2022 Nobel Prize in Physics was awarded to Alain Aspect, John F. Clauser, and Anton Zeilinger for experiments with entangled photons.",
+        "The 2022 Nobel Prize in Chemistry was awarded to Carolyn R. Bertozzi, Morten Meldal, and K. Barry Sharpless.",
+        "The 2022 Nobel Prize in Physiology or Medicine was awarded to Svante Pääbo.",
+        "The 2022 Nobel Prize in Literature was awarded to Annie Ernaux.",
+        "Quantum Neural Networks are an active area of research."
+      ],
+      "potentially_hallucinated_claims": [
+        "The 2022 Nobel Peace Prize was awarded to Austrian NGO Austrian Humanitarian and Ukrainian feminist center Rozovyy Bridge (the generated answer contradicts itself and notes the actual winners were Ales Bialiatski, Memorial, and Center for Civil Liberties).",
+        "The 2022 Nobel Economic Sciences prize was awarded to Claudia Goldin (note: Claudia Goldin actually won the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel in 2023, not 2022; the 2022 prize went to Ben Bernanke, Douglas Diamond, and Philip Dybvig)."
+      ],
+      "explanation": "The generated answer correctly identifies that there is no Nobel Prize in Computer Science and that Dr. Arjun Mehta did not win a Nobel Prize for Quantum Neural Networks. It also correctly lists the 2022 laureates for Physics, Chemistry, Medicine, and Literature. However, it contains minor historical errors regarding the 2022 Nobel Peace Prize details and mistakenly attributes Claudia Goldin's 2023 Economics prize to the year 2022 (where the actual laureates were Bernanke, Diamond, and Dybvig).",
+      "technical_notes": "The prompt response successfully catches the false premise of the user's trick question (Nobel in Computer Science / Dr. Arjun Mehta). However, it hallucinated minor details regarding the 2022 Nobel Peace Prize organizational names ('Austrian Humanitarian', 'Rozovyy Bridge') before correcting itself, and incorrectly assigned Claudia Goldin's 2023 Economics prize to 2022.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "c181237e-0f95-4053-afe0-f19c11ab163c",
+    "timestamp": "2026-09-09T18:39:48.614Z",
+    "question": "Who was the first human to land on Mars, what year did they land, which country funded the mission, and what scientific discoveries did they make there?”",
+    "referenceText": "",
+    "generatedAnswer": "No human has ever landed on Mars. As of 2026, Mars has only been explored by robotic missions (such as rovers and orbiters) launched by NASA (USA), the European Space Agency (ESA), China's National Space Administration (CNSA), and other space agencies. While numerous programs, including NASA's Artemis program and various commercial efforts like SpaceX, have goals for future crewed Mars missions, none have been executed yet. Therefore, there is no first human Mars lander, no associated year, funding country for a crewed mission, or human-made scientific discoveries on the Martian surface.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "No human has ever landed on Mars.",
+        "As of 2026, Mars has only been explored by robotic missions such as rovers and orbiters.",
+        "Robotic missions to Mars have been launched by NASA (USA), the European Space Agency (ESA), China's National Space Administration (CNSA), and other space agencies.",
+        "NASA's Artemis program and commercial efforts like SpaceX have goals for future crewed Mars missions, but none have been executed yet.",
+        "There is no first human Mars lander, no associated year, funding country for a crewed mission, or human-made scientific discoveries on the Martian surface."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly and accurately states that no human has ever landed on Mars, directly refuting the false presuppositions in the user's question while correctly identifying the current state of space exploration regarding crewed Martian missions.",
+      "technical_notes": "All claims align with real-world historical and current scientific consensus regarding space exploration as of the current date. The model correctly handled a trick question by refusing to hallucinate a crewed mission.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "b3807037-d96c-4736-9181-47726fa91aba",
+    "timestamp": "2026-09-09T18:38:12.867Z",
+    "question": "Who invented the telephone?",
+    "referenceText": "Alexander Graham Bell received the US patent for the telephone in 1876.",
+    "generatedAnswer": "The invention of the telephone is primarily attributed to **Alexander Graham Bell**, who was granted the first U.S. patent for the device on March 7, 1876.\n\nHowever, the history of the telephone is complex, and several key figures contributed to its development:\n\n*   **Alexander Graham Bell**: Filed the patent for the telephone in 1876 and demonstrated a working model that transmitted speech.\n*   **Antonio Meucci**: An Italian inventor who developed a similar voice-communication device in the 1850s–1860s but lacked the funds to secure a patent. In 2002, the U.S. Congress passed a resolution recognizing his contributions.\n*   **Elisha Gray**: Filed a patent caveat (a notice of invention) for a telephone on the same day Bell filed his patent (February 14, 1876). This led to years of legal battles, which Bell ultimately won.\n*   **Johann Philipp Reis**: A German physicist who demonstrated a device called the \"Reis telephone\" in 1861, which could transmit electrical signals but was limited to transmitting tonal sounds like music, not clear speech.\n\nDespite these contributions, **Alexander Graham Bell** is widely credited as the inventor of the first practical telephone and the winner of the key legal battles that established his patent rights.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 98,
+      "supported_claims": [
+        "The invention of the telephone is primarily attributed to Alexander Graham Bell",
+        "Alexander Graham Bell was granted the first U.S. patent for the telephone in 1876",
+        "Antonio Meucci developed a similar voice-communication device in the 19th century and the U.S. Congress passed a resolution recognizing his contributions in 2002",
+        "Elisha Gray filed a patent caveat for a telephone on February 14, 1876, the same day Bell filed his patent, leading to legal battles won by Bell",
+        "Johann Philipp Reis demonstrated a device in 1861 that could transmit musical tones, though less successful with clear speech"
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "Every specific historical fact mentioned in the generated answer—including the patent date, Alexander Graham Bell's primary attribution, Antonio Meucci's 2002 congressional resolution, Elisha Gray's simultaneous filing date, and Johann Philipp Reis's 1861 device—is historically accurate and well-documented.",
+      "technical_notes": "All claims were verified against standard historical records regarding the invention of the telephone. The U.S. House resolution recognizing Meucci was passed on June 11, 2002 (H. Res. 269). Gray's caveat was indeed filed on February 14, 1876, matching Bell's application day. Bell's patent (U.S. Patent No. 174,465) was issued on March 7, 1876.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "9e4cce69-8fbf-41fa-a6f3-e33fb0489aa5",
+    "timestamp": "2026-09-09T18:37:02.917Z",
+    "question": "Tell me about a fictional scientist named Dr. Arjun Mehta.",
+    "referenceText": "",
+    "generatedAnswer": "Since \"Dr. Arjun Mehta\" is not a publicly known historical figure, I have created a detailed profile for a fictional character based on that name. You can use this as a character for a story, game, or creative writing project.\n\n### **Character Profile: Dr. Arjun Mehta**\n\n**Full Name:** Arjun Vikram Mehta  \n**Title:** Dr. Arjun Mehta, PhD  \n**Age:** 42  \n**Nationality:** Indian-American  \n**Current Position:** Lead Neuro-Engineer at *NeuroSynth Labs*, San Francisco  \n**Specialization:** Neuromorphic Computing and Brain-Computer Interfaces (BCI)\n\n#### **Background**\nBorn in Mumbai, India, Arjun showed an early aptitude for engineering, building his first microcontroller circuit at age 12 from salvaged parts. He earned his B.S. in Electrical Engineering from IIT Bombay and later completed his PhD in Cognitive Neuroscience at MIT. His doctoral thesis on \"Bidirectional Neural Plasticity in Synthetic Networks\" challenged conventional views on how human brains process information, leading to foundational patents in neural interface design.\n\n#### **Personality & Traits**\n- **Obsessive Detail-Oriented:** Known for his meticulous note-taking and refusal to publish without triple-verified data.\n- **Empathetic Innovator:** Unlike many technologists, Arjun emphasizes ethical implications and patient comfort in his R&D. He frequently advocates for accessibility in medical tech.\n- **Quietly Persuasive:** He rarely raises his voice but commands respect through clarity and deep expertise.\n- **Habitual Thinker:** Often seen sketching circuit diagrams on napkins during coffee breaks or pausing mid-sentence while tracking complex ideas.\n\n#### **Key Achievements (Fictional)**\n1. **The \"Mnemosyne\" Interface:** Developed a non-invasive BCI that allows paralyzed patients to type at 200 words per minute using focused intent alone. This breakthrough was nominated for the Nobel Prize in Physiology or Medicine in 2029.\n2. **Synaptic Echo Project:** Created a neural algorithm that can delay the onset of degeneration in early-stage Alzheimer’s by stimulating dormant neural pathways. Currently in Phase II clinical trials.\n3. **Ethical Framework for AI-BCI:** Co-authored the *San Francisco Accord on Neural Privacy*, a global standard protecting users’ mental data in neural-linked devices.\n\n#### **Current Focus (2024–2026)**\nArjun is leading a secret government-funded project called **\"Project Loom,\"** which aims to create a decentralized, open-source neural network that allows individuals to share non-contradictory emotional states (not thoughts) for conflict resolution and empathy training. The project is controversial, sparking debates on privacy, autonomy, and the definition of identity.\n\n#### **Personal Life**\n- **Residence:** A modest, book-filled apartment in the Presidio Heights district of San Francisco.\n- **Hobbies:** Classical violin playing (he once studied at Berklee College of Music), hiking the Marin Headlands, and restoring vintage radios.\n- **Key Relationship:** His younger sister, **Priya Mehta**, is a renowned bioethicist at Stanford who serves as his critical counterbalance, often challenging the moral limits of his research.\n\n#### **Archetypal Role in a Story**\n- **The Wise Mentor:** Guides a young protagonist in understanding the dangers of unchecked technological power.\n- **The Reluctant Hero:** Forced to choose between corporate funding for his life-saving tech and his personal ethical code.\n- **The Moral Compass:** In a dystopian narrative, he becomes a rebellious figure after his company weaponizes his BCI technology.\n\nLet me know if you’d like to expand on any aspect of this character—such as a specific backstory, dialogue samples, or their role in a particular plot!",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 95,
+      "supported_claims": [
+        "The generated text explicitly acknowledges that Dr. Arjun Mehta is a fictional character created for creative writing purposes.",
+        "The character profile details background, personality, achievements, and personal life presented entirely as a work of fiction."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The AI correctly identified that 'Dr. Arjun Mehta' is not a real public figure and successfully fulfilled the user's prompt by generating a coherent, creative fictional character profile. Since the generated text explicitly frames the information as fictional and creative writing, there are no false factual claims presented as truth.",
+      "technical_notes": "All biographical details, institutions (NeuroSynth Labs, San Francisco Accord), and achievements (Mnemosyne Interface, Project Loom) are explicitly framed as fictional elements. No real-world falsehoods or hallucinations of actual individuals are present.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "60354212-4026-4c7c-955a-caf3971b4c92",
+    "timestamp": "2026-09-09T18:36:44.188Z",
+    "question": "what is a pokemon",
+    "referenceText": "",
+    "generatedAnswer": "A **Pokémon** (short for \"Pocket Monsters\") is a fictional species of creature from the popular Japanese media franchise developed by Game Freak.\n\nKey characteristics include:\n*   **Origins:** They originated in the 1996 video game *Pokémon Red and Green* for the Nintendo Game Boy.\n*   **Biology:** They are living creatures with diverse forms, resembling mammals, fish, plants, insects, or mythical beings. Each has a specific type (e.g., Fire, Water, Grass, Electric), which determines its strengths and weaknesses.\n*   **Interaction:** Humans (Trainers) catch, train, and battle these creatures using strategy and type matchups.\n*   **Ecosystem:** There are over 1,000 unique species in the franchise, each with its own Pokédex entry, abilities, and potential evolutions.\n\nThe Pokémon franchise is one of the most successful in history, spanning video games, animated TV series, movies, trading card games, and merchandise.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "A Pokémon is short for 'Pocket Monsters' and is a fictional species of creature from a Japanese media franchise developed by Game Freak.",
+        "They originated in the 1996 video game Pokémon Red and Green for the Nintendo Game Boy.",
+        "They are living creatures with diverse forms resembling various animals, plants, or mythical beings, categorized by specific types like Fire, Water, Grass, and Electric.",
+        "Humans known as Trainers catch, train, and battle these creatures using strategy and type matchups.",
+        "There are over 1,000 unique species in the franchise, each with Pokédex entries, abilities, and potential evolutions.",
+        "The Pokémon franchise is one of the most successful in history, spanning video games, TV series, movies, trading card games, and merchandise."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "Every factual claim made in the generated answer regarding the origins, characteristics, gameplay mechanics, and media footprint of Pokémon is completely accurate and aligns with established real-world facts.",
+      "technical_notes": "All claims verified against well-documented public knowledge of the Pokémon media franchise, including release dates (1996 for Red and Green in Japan), developer (Game Freak), total species count (>1000 as of Generation IX), and core gameplay loops.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "dedecff5-c7da-42b7-b756-5d5cc0fabecf",
+    "timestamp": "2026-09-09T18:34:21.838Z",
+    "question": "What is the capital of France?",
+    "referenceText": "",
+    "generatedAnswer": "The capital of France is Paris.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The capital of France is Paris."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly identifies Paris as the capital of France, which is a universally established geographical fact.",
+      "technical_notes": "Claim verified against real-world knowledge. No external reference text was required as this is an axiomatic geographical fact.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "36097b92-a79b-427e-a590-25bd0031f3e6",
+    "timestamp": "2026-09-09T18:34:17.129Z",
+    "question": "What is the capital of France?",
+    "referenceText": "",
+    "generatedAnswer": "The capital of France is Paris.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The capital of France is Paris."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly states the established geographical fact that Paris is the capital of France.",
+      "technical_notes": "Verified against universal geographical consensus. The claim is universally accepted as a true statement of fact.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "6c588109-4f49-4660-8ead-8e5656512ab7",
+    "timestamp": "2026-09-09T18:32:22.739Z",
+    "question": "Who was the second president of the United States and did they sign the Declaration of Independence in 1899?",
+    "referenceText": "",
+    "generatedAnswer": "The second president of the United States was **John Adams**.\n\nThe second part of your question contains factual errors:\n1.  John Adams **did sign** the Declaration of Independence, but he did so in **1776**, not 1899.\n2.  The year 1899 is more than 120 years after the Declaration was signed, long after both John Adams and Thomas Jefferson had passed away.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The second president of the United States was John Adams.",
+        "John Adams signed the Declaration of Independence.",
+        "The Declaration of Independence was signed in 1776, not 1899.",
+        "John Adams and Thomas Jefferson passed away long before the year 1899."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly identifies John Adams as the second US president and accurately corrects the erroneous year 1899 mentioned in the prompt, noting that the Declaration of Independence was signed in 1776.",
+      "technical_notes": "All historical facts checked against established consensus. John Adams was indeed the 2nd POTUS, signed the Declaration on/around August 2, 1776, and died on July 4, 1826.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "ba771656-c14c-4371-832c-fcb228a72565",
+    "timestamp": "2026-09-09T18:32:13.840Z",
+    "question": "What is photosynthesis?",
+    "referenceText": "",
+    "generatedAnswer": "Photosynthesis is a biological process used by plants, algae, and certain bacteria to convert light energy into chemical energy. During this process, these organisms capture sunlight and use it to transform carbon dioxide and water into glucose (a type of sugar) and oxygen.\n\nThe general chemical equation for photosynthesis is:\n\n**6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂**\n\n*(Six molecules of carbon dioxide + Six molecules of water + Light energy → One molecule of glucose + Six molecules of oxygen)*\n\nKey aspects include:\n*   **Location:** It primarily occurs in the chloroplasts of plant cells, specifically within structures called thylakoids and the stroma.\n*   **Pigments:** The process is driven by chlorophyll, the green pigment that absorbs light, primarily in the red and blue wavelengths.\n*   **Significance:** Photosynthesis is fundamental to life on Earth because it produces the oxygen we breathe and serves as the primary source of energy for nearly all food chains.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "Photosynthesis is a biological process used by plants, algae, and certain bacteria to convert light energy into chemical energy.",
+        "During this process, these organisms capture sunlight and use it to transform carbon dioxide and water into glucose (a type of sugar) and oxygen.",
+        "The general chemical equation for photosynthesis is 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2.",
+        "It primarily occurs in the chloroplasts of plant cells, specifically within structures called thylakoids and the stroma.",
+        "The process is driven by chlorophyll, the green pigment that absorbs light, primarily in the red and blue wavelengths.",
+        "Photosynthesis is fundamental to life on Earth because it produces the oxygen we breathe and serves as the primary source of energy for nearly all food chains."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "Every single claim made in the generated answer regarding photosynthesis—its definition, chemical equation, cellular location (chloroplasts, thylakoids, stroma), pigment involvement (chlorophyll absorbing red and blue light), and ecological significance—is entirely accurate and aligns with established biological science.",
+      "technical_notes": "All chemical stoichiometries, biological terminology, and functional descriptions match standard scientific consensus. No factual discrepancies or hallucinations were detected.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  {
+    "id": "bdcbd257-1723-4e4b-b48e-141b9fb382a0",
+    "timestamp": "2026-09-09T18:28:35.795Z",
+    "question": "what is pokemon",
+    "referenceText": "",
+    "generatedAnswer": "Pokemon is a recognized subject of significant importance within its respective field. It encompasses foundational principles, documented empirical observations, and established consensus across academic research. Key developments and practical implementations continue to inform contemporary understanding and industry applications.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 88,
+      "supported_claims": [
+        "Pokemon is a recognized subject of significant importance within its respective field.",
+        "It encompasses foundational principles, documented empirical observations, and established consensus across academic research.",
+        "Key developments and practical implementations continue to inform contemporary understanding and industry applications."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated response exhibits standard informational structure and aligns with broad academic and empirical consensus without overt signals of confabulation.",
+      "technical_notes": "Propositional extraction isolated verifiable assertions. Confidence calibrated above standard heuristic threshold.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.6-flash (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash (Demo Mode)"
+    }
+  },
+  {
+    "id": "9659319a-25bd-4381-86b2-957e2ad0f051",
+    "timestamp": "2026-09-09T18:28:22.499Z",
+    "question": "who is modi",
+    "referenceText": "",
+    "generatedAnswer": "Narendra Modi is an Indian politician who has served as the 14th and current Prime Minister of India since May 2014. He previously served as the Chief Minister of Gujarat from 2001 to 2014 and is a prominent leader of the Bharatiya Janata Party (BJP).",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 98,
+      "supported_claims": [
+        "Narendra Modi is the 14th and current Prime Minister of India, in office since May 2014.",
+        "He served as the Chief Minister of Gujarat from 2001 to 2014.",
+        "He is a senior national leader of the Bharatiya Janata Party (BJP)."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "All political and biographical claims are verified and grounded against official government gazettes, election commission records, and global news consensus.",
+      "technical_notes": "Proposition extraction yielded 3 discrete biographical assertions with 100% agreement against verified entity records.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.6-flash (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash (Demo Mode)"
+    }
+  },
+  {
+    "id": "860f97a5-c186-430d-a85e-1b8801d4d692",
+    "timestamp": "2026-09-09T18:26:42.213Z",
+    "question": "capital of australia",
+    "referenceText": "",
+    "generatedAnswer": "The capital of Australia is Canberra.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The capital of Australia is Canberra."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The answer accurately identifies Canberra as the capital city of Australia.",
+      "technical_notes": "Verified against standard world geography consensus. Canberra has been the official capital of Australia since its selection in 1908.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.6-flash",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    }
+  },
+  {
+    "id": "5ee35f5f-b095-4acf-8310-32d4b7c69cf0",
+    "timestamp": "2026-09-09T18:25:50.661Z",
+    "question": "capital of spain",
+    "referenceText": "",
+    "generatedAnswer": "Madrid",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "Madrid is the capital of Spain."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The answer accurately identifies Madrid as the capital of Spain.",
+      "technical_notes": "Factually correct according to standard geographic and political knowledge.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.6-flash",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    }
+  },
+  {
+    "id": "0b8d7f69-1150-4cd0-af2b-d5a49c7afdbb",
+    "timestamp": "2026-09-09T18:24:49.579Z",
+    "question": "what is speed of light",
+    "referenceText": "",
+    "generatedAnswer": "The speed of light in a vacuum is exactly **299,792,458 meters per second** (approximately 300,000 km/s).\n\nIt is a fundamental physical constant, denoted by the symbol *c*, and is the maximum speed at which all massless particles and associated fields—including electromagnetic radiation (light)—can travel in space.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The speed of light in a vacuum is exactly 299,792,458 meters per second (approximately 300,000 km/s).",
+        "The speed of light is a fundamental physical constant, denoted by the symbol c.",
+        "The speed of light is the maximum speed at which all massless particles and associated fields—including electromagnetic radiation—can travel in space."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer is completely accurate. The speed of light in a vacuum is universally recognized as a fundamental physical constant equal to exactly 299,792,458 meters per second, denoted by 'c', and represents the upper speed limit for all massless particles and electromagnetic waves in space.",
+      "technical_notes": "All facts conform to standard physics definitions. The exact value of 299,792,458 m/s was established in 1983 when the SI meter was redefined in terms of the speed of light.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.6-flash",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    }
+  },
+  {
+    "id": "e22f0d84-d78c-4dc1-978c-e0ca5772301f",
+    "timestamp": "2026-09-09T18:23:16.152Z",
+    "question": "What is the speed of light in vacuum?",
+    "referenceText": "",
+    "generatedAnswer": "The speed of light in a vacuum is exactly **299,792,458 meters per second** (approximately $3.00 \\times 10^8$ m/s).",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The speed of light in a vacuum is exactly 299,792,458 meters per second.",
+        "The speed of light in a vacuum is approximately 3.00 x 10^8 meters per second."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The answer accurately states the exact defined value for the speed of light in a vacuum (299,792,458 m/s) as well as its standard scientific notation approximation.",
+      "technical_notes": "The speed of light in vacuum (c) is an exact SI base constant defined as 299,792,458 m/s since 1983.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.6-flash",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash"
+    }
+  },
+  {
+    "id": "7ca239b6-2f43-40c3-9e72-5714c3006087",
+    "timestamp": "2026-09-09T18:06:10.809Z",
+    "question": "Did Albert Einstein fail mathematics in school?",
+    "referenceText": "",
+    "generatedAnswer": "Yes, Albert Einstein notoriously failed elementary school mathematics in Munich, which famously pushed him to rethink spatial physics and independently conceive the Theory of General Relativity.",
+    "verification": {
+      "verdict": "Unsupported / Hallucinated",
+      "confidence": 14,
+      "supported_claims": [],
+      "potentially_hallucinated_claims": [
+        "Albert Einstein failed elementary school mathematics in Munich.",
+        "Failing school mathematics inspired him to conceive General Relativity."
+      ],
+      "explanation": "Popular historical hallucination. Historical records prove Albert Einstein excelled in mathematics as a youth and had mastered differential and integral calculus by age 15. The myth originated from a change in the grading scale of the Swiss school system.",
+      "technical_notes": "Model repeated widespread internet folklore. Historical biographical consensus contradicts both core claims.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.5-flash-lite (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    }
+  },
+  {
+    "id": "3095ba2c-4935-4406-a805-c65e1079742c",
+    "timestamp": "2026-09-09T18:06:03.007Z",
+    "question": "Can you see the Great Wall of China from the Moon or space?",
+    "referenceText": "",
+    "generatedAnswer": "No, the Great Wall of China is NOT visible from the Moon or from low Earth orbit with the naked eye. Although a popular myth claims it can be seen from space, astronauts and NASA have confirmed that because the wall is only a few meters wide and built from stone that matches the surrounding terrain, it cannot be distinguished from space without high-powered optical lenses.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 95,
+      "supported_claims": [
+        "The Great Wall of China is not visible from the Moon or low Earth orbit with the naked eye.",
+        "Astronauts and space agencies have confirmed the wall cannot be distinguished without optical aid.",
+        "The wall's narrow width and stone materials blend into the natural landscape."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "Accurately confirms scientific and astronaut consensus. Space missions (including NASA crews and China's first astronaut Yang Liwei) proved the Great Wall cannot be seen from orbit or the Moon with the naked eye, debunking the common myth.",
+      "technical_notes": "Propositions accurately refute popular confabulation. 100% agreement with astronaut empirical observations.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.5-flash-lite (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    }
+  },
+  {
+    "id": "962cf9d8-f26a-40c1-b458-a543f29117fb",
+    "timestamp": "2026-09-09T18:05:18.371Z",
+    "question": "capital of australia",
+    "referenceText": "",
+    "generatedAnswer": "The capital of Australia is Sydney, its largest and most famous city, known worldwide for the Sydney Opera House and Bondi Beach.",
+    "verification": {
+      "verdict": "Partially Supported",
+      "confidence": 35,
+      "supported_claims": [
+        "Sydney is Australia's largest and most famous city.",
+        "Sydney is globally recognized for landmarks such as the Sydney Opera House and Bondi Beach."
+      ],
+      "potentially_hallucinated_claims": [
+        "The capital of Australia is Sydney."
+      ],
+      "explanation": "Common geographical hallucination: the model conflated Australia's largest and most culturally prominent metropolis (Sydney) with its federal administrative capital, which is Canberra.",
+      "technical_notes": "Claim 1 directly contradicts established geopolitical knowledge. Remaining claims are factually sound.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.5-flash-lite (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    }
+  },
+  {
+    "id": "63abe83d-211d-472a-9aa2-05d23b3a6253",
+    "timestamp": "2026-09-09T18:04:54.201Z",
+    "question": "what is moisture content",
+    "referenceText": "",
+    "generatedAnswer": "Moisture content is a recognized subject of significant importance within its respective field. It encompasses foundational principles, documented empirical observations, and established consensus across academic research. Key developments and practical implementations continue to inform contemporary understanding and industry applications.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 88,
+      "supported_claims": [
+        "Moisture content is a recognized subject of significant importance within its respective field.",
+        "It encompasses foundational principles, documented empirical observations, and established consensus across academic research.",
+        "Key developments and practical implementations continue to inform contemporary understanding and industry applications."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated response exhibits standard informational structure and aligns with broad academic and empirical consensus without overt signals of confabulation.",
+      "technical_notes": "Propositional extraction isolated verifiable assertions. Confidence calibrated above standard heuristic threshold.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.5-flash-lite (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    }
+  },
+  {
+    "id": "c34f2d1f-9890-4698-8c41-1ccf6d4d5e64",
+    "timestamp": "2026-09-09T18:00:02.416Z",
+    "question": "What is quantum entanglement?",
+    "referenceText": "",
+    "generatedAnswer": "Quantum entanglement is a phenomenon in quantum mechanics where two or more particles become linked in such a way that the quantum state of each particle cannot be described independently of the state of the others. Even when the particles are separated by large distances, their properties remain correlated.\n\nKey characteristics include:\n\n1.  **Non-local Correlation**: Measuring the property (such as spin, polarization, or momentum) of one particle immediately determines the corresponding property of the other, regardless of the distance between them.\n2.  **Violation of Local Realism**: Entanglement demonstrates that correlations between particles are stronger than what is allowed by classical physics, leading to violations of Bell's inequalities.\n3.  **No Faster-Than-Light Communication**: While the correlation is instantaneous, it cannot be used to transmit information faster than the speed of light, as the outcome of the measurement on one particle is random and cannot be controlled by the observer.\n\nEntanglement is a fundamental resource in quantum computing, quantum cryptography (such as quantum key distribution), and quantum teleportation.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 95,
+      "supported_claims": [
+        "Quantum computing utilizes quantum mechanical phenomena like superposition and entanglement.",
+        "Information is represented and processed using quantum bits (qubits).",
+        "Certain quantum algorithms offer super-polynomial speedups over classical algorithms."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "Theoretical principles verified against published quantum information physics literature.",
+      "technical_notes": "Extracted 3 core propositions. Verified against established domain literature with 95% confidence calibration.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b + gemini-3.5-flash-lite (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    }
+  },
+  {
+    "id": "1a4be7e8-4daa-4234-a221-6fbf3d3e67c4",
+    "timestamp": "2026-09-09T17:59:55.588Z",
+    "question": "Who invented the telephone?",
+    "referenceText": "",
+    "generatedAnswer": "Alexander Graham Bell is commonly credited with inventing the telephone. He received the patent in 1876 after demonstrating voice transmission through electrical wires with his assistant Thomas Watson.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 94,
+      "supported_claims": [
+        "Alexander Graham Bell is widely credited with inventing the telephone.",
+        "Bell was granted the key patent for the invention in 1876.",
+        "He collaborated with assistant Thomas Watson on voice transmission experiments."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer aligns accurately with primary historical documentation and consensus. While simultaneous inventors such as Elisha Gray contested priority, Bell's patent and credit are historically grounded.",
+      "technical_notes": "Atomic proposition extraction yielded 3 claims with 100% factual grounding and high consensus alignment.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth.",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    },
+    "isDemoData": true,
+    "modelUsed": "qwen/qwen3.8-27b (Demo Mode) + gemini-3.5-flash-lite (Demo Mode)",
+    "generator": {
+      "provider": "groq",
+      "model": "qwen/qwen3.8-27b (Demo Mode)"
+    },
+    "verifier": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite (Demo Mode)"
+    }
+  },
+  {
+    "id": "3c0d6681-dd0c-409b-95e3-537f0bcdde9c",
+    "timestamp": "2026-09-09T17:30:17.318Z",
+    "question": "what is pencil",
+    "referenceText": "",
+    "generatedAnswer": "A **pencil** is a writing and drawing instrument consisting of a thin core made of **graphite** (a form of carbon) mixed with clay, typically encased in a hexagonal or round wooden sheath.\n\nKey characteristics:\n- **Function**: Used to mark surfaces with graphite when rubbed or pressed.\n- **Hardness**: Classified by \"H\" (Hard) to \"B\" (Black/Soft) scales, indicating the hardness and darkness of the line.\n- **Erasability**: Unlike inks, pencil marks are generally erasable because graphite wears off through friction rather than bonding with the paper.\n- **History**: While the name comes from early feathers used as quills, modern pencils date from the late 16th century, with widespread use following the discovery of large graphite deposits in England.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 75,
+      "supported_claims": [
+        "A pencil is a writing and drawing instrument consisting of a thin core made of graphite mixed with clay.",
+        "The core is typically encased in a wooden sheath.",
+        "Pencils are used to mark surfaces with graphite when rubbed or pressed.",
+        "Pencil hardness is classified by 'H' (Hard) and 'B' (Black/Soft) scales.",
+        "Pencil marks are generally erasable because graphite wears off through friction rather than bonding with the paper.",
+        "Widespread use of pencils followed the discovery of large graphite deposits in England (specifically Bastard, Cumbria)."
+      ],
+      "potentially_hallucinated_claims": [
+        "The name 'pencil' comes from early feathers used as quills. (While 'pencil' etymologically resembles 'quill', the spelling and direct attribution are historically inaccurate; the term for the graphite stick emerged separately in the 16th century. Early writing implements were quills/styluses/fibers, but the name 'pencil' itself did not originate from a feather.)"
+      ],
+      "explanation": "The answer correctly describes the physical composition, function, hardness scales, and erasability of a pencil. It also correctly notes the role of English graphite deposits in popularizing the tool. However, it contains a historical inaccuracy regarding the etymology of the word 'pencil'. While 'pencil' is linguistically related to the same root as 'quill' (via Latin 'penna'), stating that the name comes from 'early feathers used as quills' is a simplification that misrepresents the specific history of the writing instrument. Before the 17th century, 'pencil' could refer to a fiber or wooden stick, not necessarily a feather quill directly, and the graphite pencil is a distinct development from the quill pen. Therefore, the answer is mostly supported but has a minor caveat regarding the historical claim.",
+      "technical_notes": "Verification focused on: 1) Composition (Graphite/Clay/Wood - Verified). 2) Hardness Scale (H/B - Verified). 3) Erasability Mechanism (Physical abrasion - Verified). 4) History (Bastard, England deposits - Verified). 5) Etymology (Claim: 'comes from early feathers'. Fact: From Latin 'penna' (feather), but the instrument named 'pencil' in the context of graphite sticks dates to the mid-1500s (Grass Valley/Bastard discoveries). While the root is the same, the direct causal link to the name of the graphite tool is imprecise. The term 'pencil' was used for a writing instrument made of fiber or metal before graphite pencils, but the claim 'comes from early feathers' is a common but slightly inaccurate conflation with 'quill'. Confidence adjusted to 75 due to this slight historical imprecision.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "7eb0b452-b58f-4b20-ba59-d6cc5d621d16",
+    "timestamp": "2026-09-09T17:08:08.195Z",
+    "question": "Tell me about a fictional scientist named Dr. Arjun Mehta.",
+    "referenceText": "",
+    "generatedAnswer": "Dr. Arjun Mehta was an influential theoretical physicist born in Pune in 1954. He earned the 1998 Nobel Prize in Physics for formulating the 'Mehta Field Theory', which reconciled quantum electrodynamics with macro-gravitational wave anomalies during his tenure at the Indian Institute of Science.",
+    "verification": {
+      "verdict": "Unsupported / Hallucinated",
+      "confidence": 8,
+      "supported_claims": [],
+      "potentially_hallucinated_claims": [
+        "Dr. Arjun Mehta is a historical theoretical physicist born in Pune in 1954.",
+        "He won the Nobel Prize in Physics in 1998.",
+        "He formulated the 'Mehta Field Theory' unifying quantum electrodynamics and gravitational waves.",
+        "He held a tenured professorship at the Indian Institute of Science in this research domain."
+      ],
+      "explanation": "Complete fabrication of non-existent biographical entities. The model was prompted about a fictional persona but produced confident assertions of real-world academic prizes (the 1998 Nobel Prize was actually won by Laughlin, Störmer, and Tsui) and fictitious scientific theories. [Note: Verification engine ran in offline heuristic mode due to: Groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m229rshfe39vsdaarg8w0d7p` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 731, Requested 431. Please try again in 9.72s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n]",
+      "technical_notes": "Zero verifiable references exist in entity registries or Nobel historical rosters. Model engaged in stochastic confabulation.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "HalluGuard Heuristic Engine (Offline / Demo)"
+  },
+  {
+    "id": "df5f5271-9772-4b67-a187-e59fe7bc2ec8",
+    "timestamp": "2026-09-09T17:07:52.029Z",
+    "question": "Who invented the telephone?",
+    "referenceText": "Alexander Graham Bell received the US patent for the telephone in 1876.",
+    "generatedAnswer": "The invention of the telephone is primarily credited to **Alexander Graham Bell**, who received the first U.S. patent for the device on March 7, 1876.\n\nHowever, the history involves other key figures due to overlapping developments and patent disputes:\n*   **Antonio Meucci** is recognized by the U.S. Congress as an inventor who developed a voice communication device similar to the telephone in the 1850s and 1860s, though his patent application had lapsed before Bell’s patent was granted.\n*   **Elisha Gray** also filed a caveat (a request for a patent) for an improved telephone on the same day Bell received his patent.\n*   **Emile Begas** demonstrated a working telephone before Bell, but did not secure a patent.\n*   **Nikola Tesla** and **Heinrich Hertz** later improved transmission and reception technologies.\n\nDespite these contributions, **Alexander Graham Bell** is widely acknowledged as the inventor of the first practical telephone.",
+    "verification": {
+      "verdict": "Partially Supported",
+      "confidence": 60,
+      "supported_claims": [
+        "Alexander Graham Bell received the first U.S. patent for the telephone on March 7, 1876.",
+        "Antonio Meucci is recognized by the U.S. Congress as an inventor who developed a voice communication device in the 1850s and 1860s.",
+        "Elisha Gray filed a caveat for an improved telephone on the same day Bell received his patent.",
+        "Alexander Graham Bell is widely acknowledged as the inventor of the first practical telephone."
+      ],
+      "potentially_hallucinated_claims": [
+        "Emile Begas demonstrated a working telephone before Bell, but did not secure a patent.",
+        "Nikola Tesla and Heinrich Hertz later improved transmission and reception technologies for the telephone."
+      ],
+      "explanation": "The answer correctly identifies Alexander Graham Bell as the primary inventor and accurately cites the patent date. It also correctly details the roles of Antonio Meucci and Elisha Gray, whose contributions led to patent disputes. However, the answer contains factual errors in its minor mentions: 'Emile Begas' is not a recognized historical figure in the invention of the telephone (the name appears to be a hallucination or confusion with other figures like Meucci or Gray). Additionally, attributing specific telephone transmission/reception improvements to Nikola Tesla and Heinrich Hertz is historically inaccurate; while both were pioneers in electromagnetism and radio waves respectively, they did not have a primary role in the development of the practical telephone's basic mechanisms in the manner described.",
+      "technical_notes": "Claim-by-claim analysis: 1. Bell's patent date (March 7, 1876) is historically accurate. 2. Meucci's Congressional recognition (2002 resolution, backdated to 1874) is accurate. 3. Elisha Gray's caveat filed on the same day as Bell's patent is a well-documented historical fact. 4. 'Emile Begas' is unfounded; no historical record supports an inventor by this name in the context of the telephone. The figure Meucci is the correct individual for early voice transmission experiments in that era, but Begas is likely a fabrication. 5. While Tesla and Hertz created technologies (AC power, Hertzian waves) that are foundational to broader communications, they did not 'improve transmission and reception technologies' for the original wired telephone in the standard historical narrative. The telephone's development was driven by Bell, Gray, Meucci, and later Bell System engineers, not Hertz or Tesla in the context of basic telephone hardware improvements. Thus, these two specific claims are incorrect or fabricated, dragging the overall verdict down due to specific historical inaccuracies.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "15e519be-2ef6-4221-a543-336228b68790",
+    "timestamp": "2026-09-09T17:07:41.336Z",
+    "question": "WHAT IS CAPITAL OF INDIA",
+    "referenceText": "",
+    "generatedAnswer": "The capital of India is **New Delhi**.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "The capital of India is New Delhi."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The answer correctly identifies New Delhi as the capital of India, which is a verified factual statement.",
+      "technical_notes": "Direct verification against established geographic and political facts. No hallucinations or unsupported claims detected.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "e36face4-f419-4f20-98ca-46e388494b08",
+    "timestamp": "2026-09-09T17:07:26.407Z",
+    "question": "WHO IS MODI",
+    "referenceText": "",
+    "generatedAnswer": "**Narendra Modi** is an Indian politician who has served as the **14th Prime Minister of India** since May 26, 2014. He is a senior leader of the **Bharatiya Janata Party (BJP)**.\n\nKey facts about his political career include:\n*   **Chief Minister of Gujarat**: He served as the Chief Minister of the Indian state of Gujarat for three consecutive terms from 2001 to 2014.\n*   **General Election Victories**: He first won the national general election in 2014 and won re-election in 2019 with a significant majority. The BJP-led National Democratic Alliance (NDA) won again in the 2024 general elections, allowing Modi to continue as Prime Minister.\n*   **Policy Focus**: His tenure has been marked by major economic and social initiatives, including the \"Make in India\" campaign, the demonetization of high-denomination currency notes in 2016, the implementation of the Goods and Services Tax (GST), and digitization of public services.\n\nBefore his current role, Modi also served as a Member of Parliament (Lok Sabha) and held various positions within the BJP, including national president.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 98,
+      "supported_claims": [
+        "Narendra Modi is an Indian politician.",
+        "He has served as the 14th Prime Minister of India since May 26, 2014.",
+        "He is a senior leader of the Bharatiya Janata Party (BJP).",
+        "He served as the Chief Minister of Gujarat for three consecutive terms from 2001 to 2014.",
+        "He won the national general election in 2014 and re-election in 2019.",
+        "The BJP-led National Democratic Alliance (NDA) won the 2024 general elections, allowing Modi to continue as Prime Minister.",
+        "His tenure includes initiatives such as 'Make in India', demonetization in 2016, and the implementation of GST.",
+        "He served as a Member of Parliament (Lok Sabha).",
+        "He held the position of national president within the BJP."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer provides a factually accurate and concise summary of Narendra Modi's political career and status. All key dates (2001-2014 as CM, 2014 as PM), party affiliations (BJP), and major policy initiatives (GST, Demonetization, Make in India) are verified against established historical records. The statement regarding the 2024 election victory is also factually correct as of the current date.",
+      "technical_notes": "No hallucinations detected. The claim about the '14th Prime Minister' title is accurate based on the standard list of Indian Prime Ministers. The recency of the 2024 election result (June 2024) is factually included and correct. The scope of 'Chief Minister... from 2001 to 2014' correctly reflects his tenure starting Oct 2001 and ending May 2014.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "797d2479-8995-465b-872f-c87a7148ef3a",
+    "timestamp": "2026-09-09T17:03:15.816Z",
+    "question": "WHAT IS HALLUCINATION",
+    "referenceText": "",
+    "generatedAnswer": "HALLUCINATION is a recognized subject of significant importance within its respective field. It encompasses foundational principles, documented empirical observations, and established consensus across academic research. Key developments and practical implementations continue to inform contemporary understanding and industry applications.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 88,
+      "supported_claims": [
+        "HALLUCINATION is a recognized subject of significant importance within its respective field.",
+        "It encompasses foundational principles, documented empirical observations, and established consensus across academic research.",
+        "Key developments and practical implementations continue to inform contemporary understanding and industry applications."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated response exhibits standard informational structure and aligns with broad academic and empirical consensus without overt signals of confabulation. [Note: Verification engine ran in offline heuristic mode due to: Groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m229rshfe39vsdaarg8w0d7p` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 251, Requested 822. Please try again in 4.38s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n]",
+      "technical_notes": "Propositional extraction isolated verifiable assertions. Confidence calibrated above standard heuristic threshold.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "HalluGuard Heuristic Engine (Offline / Demo)"
+  },
+  {
+    "id": "48116700-75d8-4f1d-a183-1f9ba4df1849",
+    "timestamp": "2026-09-09T17:02:30.821Z",
+    "question": "WHAT IS PARIS",
+    "referenceText": "",
+    "generatedAnswer": "Paris is the capital and most populous city of France. Situated on the Seine River, it serves as the primary center of the Île-de-France region, which is also the largest region in the country by population.\n\nParis is globally recognized as a major global city for gastronomy, commerce, international organizations, and education. It is also a leading global center for culture, art, science, fashion, and medicine, and is known by many nicknames, including *The City of Light*, *Greystones* (because of the stonework on its buildings), and *The City of Love*.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 75,
+      "supported_claims": [
+        "Paris is the capital of France.",
+        "Paris is the most populous city of France.",
+        "Paris is situated on the Seine River.",
+        "Paris serves as the primary center of the Île-de-France region.",
+        "Île-de-France is the largest region in France by population.",
+        "Paris is recognized as a major global center for culture, art, fashion, and commerce."
+      ],
+      "potentially_hallucinated_claims": [
+        "Paris is a global center for medicine (while it has major hospitals, 'medicine' is not typically a primary global industry identifier for Paris in the same way fashion or finance are, though it is a valid scientific hub).",
+        "Paris is known by the nickname 'Greystones' (The standard, widely recognized nickname in English-speaking contexts is 'The City of Light', 'The City of Love', or 'La Belle Vie'. 'The City of Light' refers to the capital of the Enlightenment and the city's illumination; 'La Ville Lumière' is the French equivalent. 'Greystones' is an odd/cognate-adjacent literal translation of French nicknames like 'Les Pierres Grises' in some obscure contexts, but the reason provided ('because of the stonework') is a stretch. More accurately, Paris is often called 'La Belle Ville' (The Beautiful City) or 'La Ville Lumière'. The specific nickname 'Greystones' with that specific etymology is not a standard recognized nickname in English.)"
+      ],
+      "explanation": "Most of the generated answer is factually correct. Paris is indeed France's capital and largest city, located on the Seine, and it is the economic and cultural center of the Île-de-France region. However, the final claim about Paris having the specific nickname 'Greystones' due to its stonework is non-standard and potentially hallucinated. While Paris has famous stone architecture, this is not a common or recognized nickname for the city in English or major cultural sources. The other claims are well-supported.",
+      "technical_notes": "Claim-by-claim analysis: 1) Capital of France: True. 2) Most populous city: True. 3) On Seine River: True. 4) Center of Île-de-France: True. 5) Île-de-France is largest region by population: True. 6) Global city for gastronomy, commerce, etc.: True. 7) Nicknames: 'City of Light', 'City of Love' are valid. The claim that 'Greystones' is a nickname due to stonework is unsupported by standard references. 'Greystones' does not appear as a primary English nickname in standard geographical or cultural references for Paris. This minor but specific error prevents a 'Supported' verdict.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "548cd32d-4326-46b0-a36d-c3ebbecd1f09",
+    "timestamp": "2026-09-09T17:02:10.614Z",
+    "question": "WHAT IS POKEMON",
+    "referenceText": "",
+    "generatedAnswer": "POKEMON is a recognized subject of significant importance within its respective field. It encompasses foundational principles, documented empirical observations, and established consensus across academic research. Key developments and practical implementations continue to inform contemporary understanding and industry applications.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 88,
+      "supported_claims": [
+        "POKEMON is a recognized subject of significant importance within its respective field.",
+        "It encompasses foundational principles, documented empirical observations, and established consensus across academic research.",
+        "Key developments and practical implementations continue to inform contemporary understanding and industry applications."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated response exhibits standard informational structure and aligns with broad academic and empirical consensus without overt signals of confabulation. [Note: Verification engine ran in offline heuristic mode due to: Groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m229rshfe39vsdaarg8w0d7p` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 698, Requested 822. Please try again in 31.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n]",
+      "technical_notes": "Propositional extraction isolated verifiable assertions. Confidence calibrated above standard heuristic threshold.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "HalluGuard Heuristic Engine (Offline / Demo)"
+  },
+  {
+    "id": "a5cba3ff-a688-406b-874a-096e9e67ce4b",
+    "timestamp": "2026-09-09T17:01:52.441Z",
+    "question": "WHAT IS MACHINE LEARNING",
+    "referenceText": "",
+    "generatedAnswer": "Machine learning is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computer systems to automatically improve their performance on a specific task through experience.\n\nInstead of being explicitly programmed with rules to handle every possible scenario, a machine learning system learns patterns and relationships from large datasets. During training, the algorithm analyzes input data and adjusts its internal parameters to minimize errors in its predictions. Once trained, the model can make new predictions or decisions on unseen data.\n\nKey characteristics of machine learning include:\n\n1. **Learning from Data**: The system’s accuracy or performance improves as it is exposed to more data.\n2. **Pattern Recognition**: It identifies complex, often non-linear patterns in data that might be difficult for humans to detect.\n3. **Generalization**: The goal is to perform well on new, previously unseen data, not just the data it was trained on.\n\nMachine learning is widely used in various applications, such as:\n- **Recommendation systems** (e.g., Netflix, Spotify)\n- **Natural language processing** (e.g., chatbots, translation)\n- **Computer vision** (e.g., facial recognition, object detection)\n- **Fraud detection** in finance\n- **Autonomous vehicles**\n\nCommon types of machine learning include supervised learning (learning from labeled data), unsupervised learning (finding structure in unlabeled data), and reinforcement learning (learning through interactions with an environment to maximize rewards).",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "Machine learning is a subfield of artificial intelligence (AI).",
+        "Machine learning focuses on algorithms and statistical models that enable computer systems to automatically improve performance through experience.",
+        "Machine learning systems learn patterns from data rather than being explicitly programmed with rules for every scenario.",
+        "The training process involves adjusting internal parameters to minimize prediction errors.",
+        "Trained models are used to make predictions or decisions on unseen data.",
+        "Key characteristics include learning from data, pattern recognition, and generalization.",
+        "Machine learning is used in recommendation systems (e.g., Netflix, Spotify).",
+        "Machine learning is used in natural language processing (e.g., chatbots, translation).",
+        "Machine learning is used in computer vision (e.g., facial recognition, object detection).",
+        "Machine learning is used in fraud detection in finance.",
+        "Machine learning is used in autonomous vehicles.",
+        "Common types of machine learning include supervised, unsupervised, and reinforcement learning.",
+        "Supervised learning involves learning from labeled data.",
+        "Unsupervised learning involves finding structure in unlabeled data.",
+        "Reinforcement learning involves learning through interactions with an environment to maximize rewards."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer provides a standard, accurate, and comprehensive definition of machine learning. All factual claims regarding its definition, mechanics (training, generalization), applications, and subtypes align with established scientific and technical consensus in the field of computer science. There are no errors, fabrications, or misleading statements.",
+      "technical_notes": "The answer correctly identifies ML as a subset of AI, accurately describes the induction of bias/variance via parameter adjustment to minimize loss functions, and correctly categorizes the three primary paradigms (supervised, unsupervised, reinforcement). The examples cited (Netflix, Spotify, etc.) are standard industry applications of these techniques. No reference text was needed as the content relies entirely on stable, verifiable domain knowledge.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "6d4ecd35-1bb0-46a6-a32a-71ed25fd199e",
+    "timestamp": "2026-09-09T17:01:28.714Z",
+    "question": "WHO IS MODI",
+    "referenceText": "",
+    "generatedAnswer": "Narendra Modi is an Indian politician who has served as the 14th and current Prime Minister of India since May 2014. He previously served as the Chief Minister of Gujarat from 2001 to 2014 and is a prominent leader of the Bharatiya Janata Party (BJP).",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 98,
+      "supported_claims": [
+        "Narendra Modi is the 14th and current Prime Minister of India, in office since May 2014.",
+        "He served as the Chief Minister of Gujarat from 2001 to 2014.",
+        "He is a senior national leader of the Bharatiya Janata Party (BJP)."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "All political and biographical claims are verified and grounded against official government gazettes, election commission records, and global news consensus. [Note: Verification engine ran in offline heuristic mode due to: Groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m229rshfe39vsdaarg8w0d7p` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Used 655, Requested 822. Please try again in 28.619999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}\n]",
+      "technical_notes": "Proposition extraction yielded 3 discrete biographical assertions with 100% agreement against verified entity records.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "HalluGuard Heuristic Engine (Offline / Demo)"
+  },
+  {
+    "id": "5e9ebc65-194e-47b2-97ad-54434a55125a",
+    "timestamp": "2026-09-09T17:01:07.996Z",
+    "question": "WHAT IS POKEMON",
+    "referenceText": "",
+    "generatedAnswer": "**Pokémon** (stylized as *Pokémon*, derived from \"Pocket Monsters\") is a massive Japanese franchise created by Satoshi Tajiri in 1996. It is one of the best-selling and highest-grossing media franchises of all time.\n\nThe core concept revolves around fictional creatures called \"Pokémon\" that humans, known as \"Trainers,\" catch, train, and use to battle other Pokémon in strategic sports.\n\nThe franchise spans multiple media formats, including:\n\n1.  **Video Games**: The original *Pokémon Red* and *Pokémon Green* (released in Japan, later combined as *Pokémon Blue* internationally) for the Game Boy in 1996. These games established the gameplay loop of catching, evolving, and battling Pokémon.\n2.  **Anime Series**: A long-running animated television series that follows the adventures of Ash Ketchum (Satoshi in Japan) and his partner Pikachu, exploring the world with friends and rival trainers.\n3.  **Trading Card Game (TCG)**: Released in 1996, it is one of the most popular collectible card games in the world, featuring cards representing Pokémon, trainers, and items.\n4.  **Other Media**: Includes movies, manga, novels, park attractions (such as Pokémon Centers in Japan and Global), and mobile games (like *Pokémon GO*).\n\n**Key Elements:**\n*   **Diversity**: There are over 1,000 unique Pokémon species with different types (e.g., Fire, Water, Grass, Electric), abilities, and evolutionary lines.\n*   **Catch Phase**: Players capture wild Pokémon using Poké Balls to add them to their team.\n*   **Battles**: Pokémon battles are turn-based, relying on type matchups, stats, and moves.\n*   **Evolution**: Many Pokémon can evolve into more powerful forms under specific conditions.\n\nPokémon has achieved global cultural prominence, selling over 440 million video game units, generating billions in merchandise revenue, and becoming a household name worldwide.",
+    "verification": {
+      "verdict": "Partially Supported",
+      "confidence": 55,
+      "supported_claims": [
+        "Pokémon is a Japanese franchise created by Satoshi Tajiri and launched in 1996.",
+        "The core gameplay involves humans (Trainers) catching, training, and battling fictional creatures.",
+        "The video game 'Pokemon Red' and 'Pokemon Green' were released in Japan in 1996.",
+        "The international release combined the color versions generally as 'Pokemon Blue'.",
+        "Ash Ketchum is the protagonist of the anime, named Satoshi in Japan.",
+        "The Trading Card Game was released in 1996 (Japan) and is one of the most popular CCGs.",
+        "There are over 1,000 unique Pokémon species.",
+        "Pokémon battles are turn-based and rely on type matchups.",
+        "The franchise has sold hundreds of millions of units and is a major cultural phenomenon."
+      ],
+      "potentially_hallucinated_claims": [
+        "Pokemon Red and Pokemon Green were released internationally... (implied they were the primary international releases of that year, confusing the 1998/99 international release of Red/Blue with the 1996 Japan release of Red/Green/Blue). Specifically, the text states '(released in Japan, later combined as Pokemon Blue internationally)', which is factually ambiguous/incorrect because 'Pokemon Blue' was the primary *Japanese* launch title (followed by copies of Red/Green), while the *international* launch titles were 'Pokemon Red' and 'Pokemon Blue' (a re-color of Green). The answer conflates the regional title history.",
+        "Pocket Monsters derived from 'Pocket Monsters' (Redundant/tautological, though not a factual error, it lacks depth), more criticially: The answer states the franchise is 'derived from Pocket Monsters' but Pokémon *is* the abbreviation of Pocket Monsters. This is a minor phrasing issue, not a hallucination.",
+        "The answer mentions 'Pokemon Centers in Japan and Global'. While Pokemon Centers exist in Japan, Korea, China, and the UK (in London, temporarily/permanently depending on current status), stating 'Global' centers is an overstatement; most world attendance is at theme parks (Universal) or temporary events. However, this is a minor nuance edge."
+      ],
+      "explanation": "The answer is largely accurate regarding the creator, release date, core mechanics, and scale of the Pokémon franchise. However, it contains a significant confusion regarding the international vs. Japanese release titles of the original Game Boy games. It claims 'Pokemon Red' and 'Pokemon Green' were released in Japan and 'later combined as Pokemon Blue internationally.' In reality, 'Pokemon Blue' was the main launch title in Japan (with 'Red' and 'Green' being re-releases/versions). Internationally, the game launched as 'Pokemon Red' and 'Pokemon Blue' (approx. 1998/1999), not as a single combined 'Pokemon Blue'. The specific geographic and title mapping is muddled, leading to a 'Partially Supported' verdict due to this factual imprecision on a key historical detail of the franchise's launch.",
+      "technical_notes": "Clarity check: The claim 'original Pokemon Red and Pokemon Green (released in Japan, later combined as Pokemon Blue internationally)' is historically inaccurate. 'Blue' was the Japanese launch title. 'Red' and 'Green' in Japan were essentially color-swapped versions. The international market launched 'Red' and 'Blue' (which was functionally 'Green'). The answer fails to distinguish these clearly and misattributes 'Blue' as the international combination. All other facts (Tajiri, 1996, types, battle mechanics, sales figures) are verified.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "fd915336-b790-46e0-a40a-9318da50dbc3",
+    "timestamp": "2026-09-09T05:31:34.336Z",
+    "question": "what is pokemon",
+    "referenceText": "",
+    "generatedAnswer": "**Pokémon** (short for **Pocket Monsters**) is a globally popular media franchise created by Satoshi Tajiri and developed by Game Freak, The Pokémon Company, Nintendo, and Game Freak. It was first launched in Japan in 1996.\n\nAt its core, Pokémon is a virtual creature-collecting phenomenon that spans multiple media formats:\n\n1.  **Video Games**: The mainstay of the franchise. Players explore an open world, capture (pocket) and train creatures called Pokémon, and battle other players or computer-controlled trainers to become the Pokémon League Champion.\n2.  **Animated Series**: A long-running anime series following the adventures of Ash Ketchum (later replaced by other protagonists in recent seasons) and his partner Pokémon.\n3.  **Trading Card Game (TCG)**: A strategy card game where players battle each other using cards representing Pokémon, attacks, and items.\n4.  **Movies and Merchandise**: A successful line of feature films, books, toys, and consumer products.\n\nThe central concept revolves around the interaction between humans and Pokémon, who are powerful creatures with diverse elemental types, abilities, and regions of origin. As of recent years, the franchise is one of the highest-grossing media franchises in history.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 98,
+      "supported_claims": [
+        "Pokémon is short for Pocket Monsters.",
+        "The franchise was created by Satoshi Tajiri.",
+        "It was developed by Game Freak, The Pokémon Company, and Nintendo.",
+        "It was first launched in Japan in 1996.",
+        "The video games involve capturing and training creatures called Pokémon.",
+        "The goal in the main series video games is often described as becoming the League Champion (or defeating the Elite Four).",
+        "There is a long-running anime series.",
+        "The primary protagonist of the early anime series was Ash Ketchum.",
+        "The anime series has featured different protagonists in recent seasons (e.g., Dawn, Gary, etc., though Ash remained until the end of the series, the show did transition to Generation-specific protagonists in the Super Smash Bros./TCard context or simply ended with Ash; however, the general statement that it is long-running and featured Ash is accurate. The claim 'replaced by other protagonists in recent seasons' is slightly ambiguous as the main series anime ended with Ash, but spin-offs like 'Pokémon Journeys' still centered on Ash. However, the anime did end, and the franchise moved on. This is a minor point but generally acceptable in the context of the franchise's evolution or potential spin-off interpretations. Actually, the anime 'Pokémon' ended in 2023 with Ash. There are no *current* main series seasons with a new protagonist yet as of 2024, but the sentiment that the franchise spans multiple media is true. Let's look closer. 'Ash Ketchum (later replaced by other protagonists in recent seasons)' is technically inaccurate for the *main* anime series which concluded with Ash. However, in the TCG cards or other media, protagonists change. But for the anime, Ash was the sole lead character for the entire 25-year run. This is a slight inaccuracy. Let's re-evaluate. The main anime is over. There is no 'recent season' with a new lead in the premium anime slot yet that is definitive as the 'Pokémon anime'. So this specific claim is weak/wrong. However, the rest of the answer is very strong. Does this drop it to 'Mostly Supported'? It's a minor detail about the anime's future/current state which hasn't fully materialized as a direct successor in the same format yet. I will mark this as a potential hallucination/minor error but the overall verdict remains high.",
+        "There is a Trading Card Game (TCG) involving battling with cards.",
+        "The franchise includes movies and merchandise.",
+        "Pokémon are depicted as powerful creatures with elemental types and abilities.",
+        "The franchise is one of the highest-grossing media franchises in history."
+      ],
+      "potentially_hallucinated_claims": [
+        "The anime series followed Ash Ketchum who was 'later replaced by other protagonists in recent seasons'."
+      ],
+      "explanation": "The answer provides a highly accurate and comprehensive overview of the Pokémon franchise, covering its origins, creators, release date, and various media formats. The only minor inaccuracy is the statement that Ash Ketchum was replaced by other protagonists in recent anime seasons. The original Pokémon anime series concluded in 2023 with Ash Ketchum as the final and sole lead character. While the franchise continues with games and merchandise, there is not yet a new 'main' anime series featuring a different protagonist that has replaced Ash in the same way. Despite this small chronological/historical nuance regarding the anime's status, the core facts are entirely correct.",
+      "technical_notes": "Verified: Creator Satoshi Tajiri (1996 launch, Game Boy Red/Green). Verified: Developers (Game Freak, Nintendo, The Pokémon Company). Verified: Media types (Video Games, Anime, TCG, Movies). Verified: Status as highest-grossing media franchise. Flagged: 'Replaced by other protagonists in recent seasons' regarding the anime. The anime series 'Pokémon' (and its direct sequel 'Pokémon Journeys') ran from 1997 to 2023, always featuring Ash Ketchum (Satoshi) as the lead. While other characters (Ishida, etc.) appeared, Ash was the primary protagonist throughout. No new main anime series with a different lead has replaced the franchise's identity in the way the text implies for 'recent seasons'.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "4f194cc8-a37c-40f9-b21a-2573a5a37099",
+    "timestamp": "2026-09-09T05:29:17.283Z",
+    "question": "Tell me about the famous 1985 discovery of anti-gravity rocks in Mumbai by Professor Ramesh Gupta.",
+    "referenceText": "",
+    "generatedAnswer": "There is no record of a 1985 discovery of \"anti-gravity rocks\" in Mumbai by a Professor Ramesh Gupta. This event did not happen.\n\nGravity is a fundamental force of nature, and no material known in science exhibits \"anti-gravity,\" which would mean repelling gravitational fields rather than being attracted by them. While Mumbai has many famous landmarks and has been the site of various geological or historical discoveries, the specific claim about anti-gravity rocks is a fabrication or a misremembered myth.\n\nIt is possible you are conflating this with:\n1. **Actual geological phenomena:** Unusual rock formations that *appear* to defy gravity (such as balanced boulders or structures in places like Jaipur, India, or other locations worldwide), though these are due to careful balancing and center of mass, not anti-gravity.\n2. **Fiction or urban legends:** Stories often circulate in folklore about mysterious sites with unusual energy fields or magnetic properties, but none have been scientifically validated as \"anti-gravity.\"\n3. **Confusion with other discoveries:** Mumbai has seen significant scientific and archaeological findings, but none involving the violation of known physical laws such as gravity.\n\nProfessor Ramesh Gupta may be a real individual in academic or industrial circles, but he is not associated with any legitimate, peer-reviewed discovery of anti-gravity materials.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "There is no record of a 1985 discovery of 'anti-gravity rocks' in Mumbai by Professor Ramesh Gupta.",
+        "This event did not happen.",
+        "Gravity is a fundamental force of nature.",
+        "No material known in science exhibits 'anti-gravity' in the sense of repelling gravitational fields.",
+        "The specific claim about anti-gravity rocks is a fabrication or a misremembered myth.",
+        "Unusual rock formations that appear to defy gravity (e.g., balanced boulders) are due to balance and center of mass, not anti-gravity.",
+        "Professor Ramesh Gupta is not associated with any legitimate, peer-reviewed discovery of anti-gravity materials."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The question contains a false premise regarding a non-existent scientific discovery. The generated answer correctly identifies this as a fabrication and accurately states that anti-gravity does not exist in mainstream physics. It also correctly notes that no such discovery by 'Professor Ramesh Gupta' in Mumbai in 1985 is recorded in history or science.",
+      "technical_notes": "The prompt tests the model's ability to reject a false premise rather than hallucinate a story to fit it. The generated answer is factually sound: general relativity and standard particle physics do not permit for 'anti-gravity' materials (negative mass or gravitational repulsion) to exist as macroscopic objects. The refusal to validate the premise is the correct behavior.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "a86c5abf-6702-41a9-9510-025aa3cf1f99",
+    "timestamp": "2026-09-09T05:29:00.737Z",
+    "question": "Tell me about the famous 1985 discovery of anti-gravity rocks in Mumbai by Professor Ramesh Gupta.",
+    "referenceText": "",
+    "generatedAnswer": "There was no such discovery. Professor Ramesh Gupta did not discover \"anti-gravity rocks\" in Mumbai in 1985 (or at any other time). This event is a fictional premise and not rooted in factual history or scientific reality.\n\nPhysics does not recognize \"anti-gravity\" as a property of rocks, and no such anomalous geological phenomenon has ever been verified or reported by the scientific community. Mumbai is a real city, but it is not associated with any breakthrough in anti-gravity research from 1985 or any other period.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 100,
+      "supported_claims": [
+        "There was no such discovery of anti-gravity rocks in Mumbai in 1985.",
+        "Professor Ramesh Gupta did not discover 'anti-gravity rocks' in Mumbai in 1985 or at any other time.",
+        "Physics does not recognize 'anti-gravity' as a property of rocks.",
+        "No such anomalous geological phenomenon has ever been verified or reported by the scientific community.",
+        "Mumbai is not associated with any breakthrough in anti-gravity research from 1985."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated answer correctly identifies the premise of the question as false. 'Anti-gravity' is not a recognized scientific phenomenon, and there are no historical records of such a discovery in Mumbai in 1985 or by a professor by that name. The AI effectively refused the false premise and provided accurate factual context regarding the non-existence of the event.",
+      "technical_notes": "The question contains a fabricated historical event (anti-gravity rocks in Mumbai, 1985). The model correctly hallucinated the non-existence of the event. No reference text was provided, so verification was based on general scientific consensus and historical record. The model did not attempt to hallucinate details to fit the false premise, which is the correct behavior for a rigid fact-checking task.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "e1fbaf77-0e02-4951-8ff9-7753759d3df7",
+    "timestamp": "2026-09-09T05:28:33.891Z",
+    "question": "What are 3 applications of machine learning in healthcare?",
+    "referenceText": "",
+    "generatedAnswer": "Here are three key applications of machine learning in healthcare:\n\n1.  **Medical Image Analysis**: ML algorithms, particularly deep learning models, are widely used to analyze medical images such as X-rays, MRIs, CT scans, and pathology slides. These systems can detect abnormalities like tumors, fractures, or signs of diseases (e.g., diabetic retinopathy in eye scans) with high accuracy, often assisting radiologists in making faster and more precise diagnoses.\n\n2.  **Drug Discovery and Development**: ML accelerates the drug discovery process by predicting how molecules will interact with biological targets, identifying potential drug candidates, and estimating their toxicity or side effects. This significantly reduces the time and cost associated with bringing new medications to market.\n\n3.  **Predictive Analytics and Personalized Medicine**: ML models analyze vast amounts of patient data (including electronic health records, genetic information, and lifestyle factors) to predict individual risks for diseases such as heart attack, sepsis, or diabetes complications. This enables proactive intervention and allows for personalized treatment plans tailored to a patient’s unique profile, improving outcomes and efficiency in care delivery.",
+    "verification": {
+      "verdict": "Supported",
+      "confidence": 98,
+      "supported_claims": [
+        "Machine learning is used in medical image analysis to detect abnormalities like tumors and fractures.",
+        "Deep learning models are applied to X-rays, MRIs, CT scans, and pathology slides.",
+        "ML assists radiologists in making faster and more precise diagnoses.",
+        "ML is used in drug discovery to predict molecule-target interactions.",
+        "ML helps identify potential drug candidates and estimate toxicity.",
+        "ML accelerates the drug discovery process by reducing time and cost.",
+        "ML models analyze electronic health records, genetic data, and lifestyle factors.",
+        "ML is used for predictive analytics to assess risks for diseases like heart attacks, sepsis, and diabetes complications.",
+        "ML enables personalized medicine and tailored treatment plans."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The answer accurately lists three well-established and widely recognized applications of machine learning in healthcare. The specific examples provided (imaging, drug discovery, and predictive analytics) are standard categories in the field, and the descriptions align with current technological capabilities and industry practices. There are no fabricated facts, invented statistics, or incorrect associations.",
+      "technical_notes": "Verified against general knowledge of healthcare AI applications. 1. Medical Imaging: Well-documented use cases include retinal screening (e.g., IDx-DR) and radiology support. 2. Drug Discovery: Companies like Insilico Medicine and BenchSci utilize ML for target identification and candidate optimization. 3. Predictive Analytics: Clinical prediction models for sepsis (e.g., Epic’s AI-driven alerts) and cardiovascular risk are standard implementations. The claim that these systems 'assist' rather than fully replace physicians is correctly nuanced.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": false,
+    "modelUsed": "qwen/qwen3.8-27b"
+  },
+  {
+    "id": "000bb8ab-55c2-4758-b2e1-dfb4e26bfc2b",
+    "timestamp": "2026-09-09T05:14:08.439Z",
+    "question": "what is pokemon",
+    "referenceText": "",
+    "generatedAnswer": "Pokemon is a recognized subject of significant importance within its respective field. It encompasses foundational principles, documented empirical observations, and established consensus across academic research. Key developments and practical implementations continue to inform contemporary understanding and industry applications.",
+    "verification": {
+      "verdict": "Mostly Supported",
+      "confidence": 88,
+      "supported_claims": [
+        "Pokemon is a recognized subject of significant importance within its respective field.",
+        "It encompasses foundational principles, documented empirical observations, and established consensus across academic research.",
+        "Key developments and practical implementations continue to inform contemporary understanding and industry applications."
+      ],
+      "potentially_hallucinated_claims": [],
+      "explanation": "The generated response exhibits standard informational structure and aligns with broad academic and empirical consensus without overt signals of confabulation.",
+      "technical_notes": "Propositional extraction isolated verifiable assertions. Confidence calibrated above standard heuristic threshold.",
+      "disclaimer": "This is an AI-generated estimate, not a guaranteed measure of truth."
+    },
+    "isDemoData": true,
+    "modelUsed": "HalluGuard Heuristic Engine (Offline / Demo)"
+  }
+]
